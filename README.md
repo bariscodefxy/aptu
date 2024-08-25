@@ -6,14 +6,14 @@ Apt shortcuts for lazy Linuxers.
 - sudo (Not installed by default in debian but debian based distros have installed that)
 
 ## Shortcuts (usage)
-`aptar` - `sudo apt autoremove`
-`apti` - `sudo apt install`
-`aptr` - `sudo apt remove`
-`aptrei` - `sudo apt reinstall`
-`aptse` - `sudo apt search`
-`aptsh` - `sudo apt show`
-`aptu` - `sudo apt update`
-`aptug` - `sudo apt update && sudo apt upgrade
+- `aptar` - `sudo apt autoremove`
+- `apti` - `sudo apt install`
+- `aptr` - `sudo apt remove`
+- `aptrei` - `sudo apt reinstall`
+- `aptse` - `sudo apt search`
+- `aptsh` - `sudo apt show`
+- `aptu` - `sudo apt update`
+- `aptug` - `sudo apt update && sudo apt upgrade
 
 ## Example
 ```bash
