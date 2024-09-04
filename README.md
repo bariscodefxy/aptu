@@ -2,7 +2,6 @@
 Apt shortcuts for lazy Linuxers.
 
 ## Requirements
-- python3 (Should be installed if you use debian or based on distro)
 - sudo (Not installed by default in debian but debian based distros have installed that)
 
 ## Shortcuts (usage)
