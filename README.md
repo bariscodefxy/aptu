@@ -13,7 +13,7 @@ Apt shortcuts for lazy Linuxers.
 - `aptse` - `sudo apt search`
 - `aptsh` - `sudo apt show`
 - `aptu` - `sudo apt update`
-- `aptug` - `sudo apt update && sudo apt upgrade
+- `aptug` - `sudo apt update && sudo apt upgrade`
 
 ## Example
 ```bash
@@ -33,6 +33,9 @@ cd aptu
 ```bash
 git clone https://github.com/bariscodefxy/aptu && cd aptu && ./install.sh
 ```
+
+## Note 
+You can delete the aptu folder after installation. 
 
 ## Support
 If you like this project, you can contribute to me by starring it.
